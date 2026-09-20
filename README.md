@@ -231,7 +231,7 @@ AI-Face-Mask-Detection/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Face-Mask-Detection.git
+git clone https://github.com/furqanzubair209-cell/AI-Face-Mask-Detection.git
 ```
 
 Move into the project directory:
