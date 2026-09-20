@@ -1,0 +1,10 @@
+tensorflow>=2.5.0
+keras
+imutils
+numpy
+opencv-python
+matplotlib
+scipy
+scikit-learn
+pillow
+streamlit
