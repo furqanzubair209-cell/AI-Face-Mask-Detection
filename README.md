@@ -638,7 +638,7 @@ Contributions, improvements, and suggestions are welcome.
 ### 1. Fork the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Face-Mask-Detection.git
+git clone https://github.com/furqanzubair209-cell/AI-Face-Mask-Detection.git
 ```
 
 ### 2. Create a feature branch
